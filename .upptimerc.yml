@@ -7,4 +7,7 @@ sites: # List of endpoints to track
   - name: Zuko (POST)
     url: https://ps1787.zuko.pro
     method: POST
-assignees: # Users to assign downtime issues (optional)
+#assignees: # Users to assign downtime issues (optional)
+status-website:
+  baseUrl: /status # where "repo" is your repository name
+  name: Zuko Status
