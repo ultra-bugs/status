@@ -12,6 +12,7 @@ sites:
         headers:
             - "X-Uptime-Bot: 1"
     -   name: Zuko WS
+        check: "ws"
         url: $WS_URL
         headers:
             - "User-Agent: Koj Bot"
