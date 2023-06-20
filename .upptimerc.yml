@@ -1,6 +1,7 @@
-owner: zuko-xdev # GitHub username
-repo: status # GitHub repository name #user-agent: tansautn
-sites: # List of endpoints to track
+owner: zuko-xdev
+repo: status
+user-agent: tansautn
+sites:
     -   name: Zuko
         url: https://ps1787.zuko.pro
         headers:
@@ -8,9 +9,9 @@ sites: # List of endpoints to track
     -   name: POST to Zuko
         url: https://ps1787.zuko.pro
         method: POST
-            headers:
-                - "X-Uptime-Bot: 1"
+        headers:
+            - "X-Uptime-Bot: 1"
                 
 status-website:
-    baseUrl: /status # where "repo" is your repository name
-    name: Zuko Status
+    baseUrl: /status
+    name: "Zuko Status"
