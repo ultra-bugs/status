@@ -2,18 +2,22 @@ owner: "zuko-xdev"
 repo: status
 user-agent: tansautn
 sites:
-    -   name: Zuko
+    -   name: Zuko HTTP GET
         url: https://ps1787.zuko.pro
-        verbose: true
         headers:
             - "X-Uptime-Bot: 1"
-    -   name: POST to Zuko
+    -   name: Zuko HTTP POST
         url: https://ps1787.zuko.pro
-        verbose: true
         method: POST
         headers:
             - "X-Uptime-Bot: 1"
-
+    -   name: Zuko WS
+        url: $WS_URL
+        headers:
+            - "User-Agent: Koj Bot"
+            - "X-Uptime-Bot: 1"
+        body: '{ "event": "pusher.ping" }'
+        verbose: true
 status-website:
     baseUrl: /status
     name: "Zuko Status"
