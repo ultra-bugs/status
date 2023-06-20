@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ps1787.zuko.pro.ico",
     "slug": "zuko",
     "status": "down",
-    "uptime": "13.84%",
-    "uptimeDay": "13.84%",
-    "uptimeWeek": "13.84%",
-    "uptimeMonth": "13.84%",
-    "uptimeYear": "13.84%",
-    "time": 109,
-    "timeDay": 109,
-    "timeWeek": 109,
-    "timeMonth": 109,
-    "timeYear": 109,
+    "uptime": "0.48%",
+    "uptimeDay": "0.48%",
+    "uptimeWeek": "0.48%",
+    "uptimeMonth": "0.48%",
+    "uptimeYear": "0.48%",
+    "time": 134,
+    "timeDay": 134,
+    "timeWeek": 134,
+    "timeMonth": 134,
+    "timeYear": 134,
     "dailyMinutesDown": {
-      "2023-06-20": 0
+      "2023-06-20": 7
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ps1787.zuko.pro.ico",
     "slug": "zuko-post",
     "status": "down",
-    "uptime": "13.03%",
-    "uptimeDay": "13.03%",
-    "uptimeWeek": "13.03%",
-    "uptimeMonth": "13.03%",
-    "uptimeYear": "13.03%",
-    "time": 14,
-    "timeDay": 14,
-    "timeWeek": 14,
-    "timeMonth": 14,
-    "timeYear": 14,
+    "uptime": "0.39%",
+    "uptimeDay": "0.39%",
+    "uptimeWeek": "0.39%",
+    "uptimeMonth": "0.39%",
+    "uptimeYear": "0.39%",
+    "time": 18,
+    "timeDay": 18,
+    "timeWeek": 18,
+    "timeMonth": 18,
+    "timeYear": 18,
     "dailyMinutesDown": {
-      "2023-06-20": 0
+      "2023-06-20": 7
     }
   }
 ]
