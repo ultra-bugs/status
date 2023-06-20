@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ps1787.zuko.pro.ico",
     "slug": "zuko",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
-    "time": 113,
-    "timeDay": 113,
-    "timeWeek": 113,
-    "timeMonth": 113,
-    "timeYear": 113,
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
+    "time": 110,
+    "timeDay": 110,
+    "timeWeek": 110,
+    "timeMonth": 110,
+    "timeYear": 110,
     "dailyMinutesDown": {
-      "2023-06-20": 63
+      "2023-06-20": 104
     }
   },
   {
@@ -30,13 +30,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 11,
-    "timeDay": 11,
-    "timeWeek": 11,
-    "timeMonth": 11,
-    "timeYear": 11,
+    "time": 13,
+    "timeDay": 13,
+    "timeWeek": 13,
+    "timeMonth": 13,
+    "timeYear": 13,
     "dailyMinutesDown": {
-      "2023-06-20": 0
+      "2023-06-20": 42
     }
   }
 ]
