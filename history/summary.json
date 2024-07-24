@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.23%",
-    "time": 666,
-    "timeDay": 1168,
-    "timeWeek": 795,
-    "timeMonth": 609,
-    "timeYear": 558,
+    "time": 667,
+    "timeDay": 1138,
+    "timeWeek": 909,
+    "timeMonth": 635,
+    "timeYear": 559,
     "dailyMinutesDown": {
       "2023-08-04": 417,
       "2023-08-03": 1440,
@@ -25,8 +25,7 @@
       "2023-07-29": 1440,
       "2023-07-28": 1440,
       "2023-07-27": 1440,
-      "2023-07-26": 1440,
-      "2023-07-25": 1173
+      "2023-07-26": 1440
     }
   },
   {
@@ -35,16 +34,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zuko.pro.ico",
     "slug": "zuko-http-post",
     "status": "up",
-    "uptime": "93.97%",
+    "uptime": "93.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.42%",
-    "time": 455,
-    "timeDay": 267,
-    "timeWeek": 344,
-    "timeMonth": 431,
-    "timeYear": 394,
+    "time": 456,
+    "timeDay": 904,
+    "timeWeek": 433,
+    "timeMonth": 452,
+    "timeYear": 392,
     "dailyMinutesDown": {
       "2023-08-19": 112,
       "2023-08-18": 1440,
@@ -70,8 +69,7 @@
       "2023-07-29": 1440,
       "2023-07-28": 1440,
       "2023-07-27": 1440,
-      "2023-07-26": 1440,
-      "2023-07-25": 1172
+      "2023-07-26": 1440
     }
   }
 ]
