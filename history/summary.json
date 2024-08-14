@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zuko.pro.ico",
     "slug": "zuko-http-get",
     "status": "up",
-    "uptime": "97.59%",
+    "uptime": "97.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 667,
-    "timeDay": 1220,
-    "timeWeek": 743,
-    "timeMonth": 683,
-    "timeYear": 555,
+    "time": 668,
+    "timeDay": 991,
+    "timeWeek": 825,
+    "timeMonth": 704,
+    "timeYear": 556,
     "dailyMinutesDown": {}
   },
   {
@@ -23,22 +23,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/zuko.pro.ico",
     "slug": "zuko-http-post",
     "status": "up",
-    "uptime": "94.27%",
+    "uptime": "94.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.35%",
+    "uptimeYear": "98.62%",
     "time": 460,
-    "timeDay": 961,
-    "timeWeek": 580,
-    "timeMonth": 527,
-    "timeYear": 393,
+    "timeDay": 537,
+    "timeWeek": 621,
+    "timeMonth": 516,
+    "timeYear": 394,
     "dailyMinutesDown": {
       "2023-08-19": 112,
       "2023-08-18": 1440,
       "2023-08-17": 1440,
-      "2023-08-16": 1440,
-      "2023-08-15": 1440
+      "2023-08-16": 1440
     }
   }
 ]
