@@ -4,19 +4,19 @@
     "url": "https://zuko.pro",
     "icon": "https://icons.duckduckgo.com/ip3/zuko.pro.ico",
     "slug": "zuko-http-get",
-    "status": "down",
+    "status": "up",
     "uptime": "97.63%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "96.23%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.99%",
     "time": 667,
-    "timeDay": 427,
-    "timeWeek": 658,
-    "timeMonth": 700,
+    "timeDay": 610,
+    "timeWeek": 677,
+    "timeMonth": 703,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2024-08-20": 2
+      "2024-08-20": 54
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://zuko.pro",
     "icon": "https://icons.duckduckgo.com/ip3/zuko.pro.ico",
     "slug": "zuko-http-post",
-    "status": "down",
+    "status": "up",
     "uptime": "94.37%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 459,
-    "timeDay": 248,
-    "timeWeek": 402,
-    "timeMonth": 500,
-    "timeYear": 395,
+    "uptimeDay": "96.33%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.99%",
+    "time": 460,
+    "timeDay": 537,
+    "timeWeek": 463,
+    "timeMonth": 510,
+    "timeYear": 397,
     "dailyMinutesDown": {
-      "2024-08-20": 0
+      "2024-08-20": 53
     }
   }
 ]
