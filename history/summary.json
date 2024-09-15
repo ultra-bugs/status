@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zuko.pro.ico",
     "slug": "zuko-http-get",
     "status": "up",
-    "uptime": "97.75%",
+    "uptime": "97.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 665,
-    "timeDay": 347,
-    "timeWeek": 539,
-    "timeMonth": 628,
-    "timeYear": 571,
+    "timeDay": 620,
+    "timeWeek": 583,
+    "timeMonth": 627,
+    "timeYear": 570,
     "dailyMinutesDown": {
       "2024-08-20": 54
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zuko.pro.ico",
     "slug": "zuko-http-post",
     "status": "up",
-    "uptime": "94.67%",
+    "uptime": "94.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 458,
-    "timeDay": 550,
-    "timeWeek": 445,
-    "timeMonth": 423,
-    "timeYear": 401,
+    "timeDay": 569,
+    "timeWeek": 429,
+    "timeMonth": 427,
+    "timeYear": 400,
     "dailyMinutesDown": {
       "2024-08-20": 53
     }
