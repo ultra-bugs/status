@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 662,
-    "timeDay": 705,
-    "timeWeek": 616,
-    "timeMonth": 592,
-    "timeYear": 573,
+    "timeDay": 701,
+    "timeWeek": 634,
+    "timeMonth": 586,
+    "timeYear": 574,
     "dailyMinutesDown": {
       "2024-08-20": 54
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zuko.pro.ico",
     "slug": "zuko-http-post",
     "status": "up",
-    "uptime": "94.86%",
+    "uptime": "94.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 463,
-    "timeDay": 890,
-    "timeWeek": 675,
-    "timeMonth": 499,
-    "timeYear": 410,
+    "time": 462,
+    "timeDay": 198,
+    "timeWeek": 559,
+    "timeMonth": 483,
+    "timeYear": 409,
     "dailyMinutesDown": {
       "2024-08-20": 53
     }
