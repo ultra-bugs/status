@@ -2,11 +2,11 @@ owner: "ultra-bugs"
 repo: status
 user-agent: tansautn
 sites:
-    -   name: Zuko\'s Main Server
+    -   name: Zuko's Main Server [GET]
         url: https://zuko.pro
         headers:
             - "X-Uptime-Bot: 1"
-    -   name: Zuko\'s Main Server
+    -   name: Zuko's Main Server [POST]
         url: https://zuko.pro
         method: POST
         headers:
