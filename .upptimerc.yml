@@ -2,13 +2,18 @@ owner: "ultra-bugs"
 repo: status
 user-agent: tansautn
 sites:
-    -   name: Zuko HTTP GET
+    -   name: Zuko\'s Main Server
         url: https://zuko.pro
         headers:
             - "X-Uptime-Bot: 1"
-    -   name: Zuko HTTP POST
+    -   name: Zuko\'s Main Server
         url: https://zuko.pro
         method: POST
+        headers:
+            - "X-Uptime-Bot: 1"
+    -   name: "Lalita landing webpage"
+        url: https://lalitadesignqni.com
+        method: GET
         headers:
             - "X-Uptime-Bot: 1"
 status-website:
