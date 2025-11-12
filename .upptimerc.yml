@@ -16,6 +16,11 @@ sites:
         method: GET
         headers:
             - "X-Uptime-Bot: 1"
+    -   name: MyLin[K] CERM Backend
+        url: https://cerm.zuko.pro/admin
+        headers:
+            - "X-Uptime-Bot: 1"
+            - "X-Load-All-Widget: 1"
 status-website:
     baseUrl: /status
     name: "Zuko Status"
