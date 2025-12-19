@@ -1,7 +1,7 @@
 url: https://cerm.zuko.pro/admin
-status: up
-code: 200
-responseTime: 1012
-lastUpdated: 2025-12-18T23:22:11.219Z
+status: down
+code: 500
+responseTime: 1187
+lastUpdated: 2025-12-19T09:33:09.343Z
 startTime: 2025-11-12T09:40:03.080Z
 generator: Upptime <https://github.com/upptime/upptime>
