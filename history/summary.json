@@ -4,16 +4,16 @@
     "url": "https://zuko.pro",
     "icon": "https://icons.duckduckgo.com/ip3/zuko.pro.ico",
     "slug": "zuko-s-main-server-get",
-    "status": "down",
-    "uptime": "99.36%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.33%",
+    "status": "up",
+    "uptime": "99.33%",
+    "uptimeDay": "91.53%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.31%",
     "time": 792,
-    "timeDay": 291,
-    "timeWeek": 329,
-    "timeMonth": 341,
+    "timeDay": 360,
+    "timeWeek": 348,
+    "timeMonth": 346,
     "timeYear": 806,
     "dailyMinutesDown": {
       "2025-08-09": 37,
@@ -29,7 +29,7 @@
       "2026-04-15": 67,
       "2026-04-21": 331,
       "2026-04-20": 664,
-      "2026-08-07": 1
+      "2026-08-07": 122
     }
   },
   {
@@ -37,17 +37,17 @@
     "url": "https://zuko.pro",
     "icon": "https://icons.duckduckgo.com/ip3/zuko.pro.ico",
     "slug": "zuko-s-main-server-post",
-    "status": "down",
-    "uptime": "99.35%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.33%",
+    "status": "up",
+    "uptime": "99.33%",
+    "uptimeDay": "91.55%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.31%",
     "time": 648,
-    "timeDay": 251,
-    "timeWeek": 256,
-    "timeMonth": 269,
-    "timeYear": 662,
+    "timeDay": 321,
+    "timeWeek": 279,
+    "timeMonth": 275,
+    "timeYear": 661,
     "dailyMinutesDown": {
       "2025-08-09": 37,
       "2025-08-20": 334,
@@ -63,7 +63,7 @@
       "2026-04-15": 66,
       "2026-04-21": 331,
       "2026-04-20": 663,
-      "2026-08-07": 1
+      "2026-08-07": 122
     }
   },
   {
@@ -71,17 +71,17 @@
     "url": "https://lalitadesignqni.com",
     "icon": "https://icons.duckduckgo.com/ip3/lalitadesignqni.com.ico",
     "slug": "lalita-landing-webpage",
-    "status": "down",
-    "uptime": "98.88%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.85%",
-    "time": 1400,
-    "timeDay": 1473,
-    "timeWeek": 1543,
-    "timeMonth": 1709,
-    "timeYear": 1394,
+    "status": "up",
+    "uptime": "98.86%",
+    "uptimeDay": "91.56%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "98.82%",
+    "time": 1402,
+    "timeDay": 1818,
+    "timeWeek": 1621,
+    "timeMonth": 1724,
+    "timeYear": 1395,
     "dailyMinutesDown": {
       "2025-08-09": 514,
       "2025-08-14": 54,
@@ -120,7 +120,7 @@
       "2026-05-22": 109,
       "2026-05-21": 173,
       "2026-06-26": 213,
-      "2026-08-07": 0
+      "2026-08-07": 121
     }
   },
   {
@@ -128,17 +128,17 @@
     "url": "https://cerm.zuko.pro/admin",
     "icon": "https://icons.duckduckgo.com/ip3/cerm.zuko.pro.ico",
     "slug": "my-lin-k-cerm-backend",
-    "status": "down",
-    "uptime": "98.49%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "98.49%",
-    "time": 2420,
-    "timeDay": 1635,
-    "timeWeek": 6865,
-    "timeMonth": 4022,
-    "timeYear": 2420,
+    "status": "up",
+    "uptime": "98.46%",
+    "uptimeDay": "91.58%",
+    "uptimeWeek": "97.99%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "98.46%",
+    "time": 2422,
+    "timeDay": 2055,
+    "timeWeek": 6504,
+    "timeMonth": 3990,
+    "timeYear": 2422,
     "dailyMinutesDown": {
       "2025-11-14": 39,
       "2025-11-18": 229,
@@ -163,7 +163,7 @@
       "2026-06-27": 450,
       "2026-06-26": 1086,
       "2026-08-02": 82,
-      "2026-08-07": 0
+      "2026-08-07": 121
     }
   }
 ]
