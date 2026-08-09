@@ -125,17 +125,17 @@
     "url": "https://cerm.zuko.pro/admin",
     "icon": "https://icons.duckduckgo.com/ip3/cerm.zuko.pro.ico",
     "slug": "my-lin-k-cerm-backend",
-    "status": "down",
-    "uptime": "98.45%",
-    "uptimeDay": "95.85%",
-    "uptimeWeek": "97.39%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "98.45%",
-    "time": 2442,
-    "timeDay": 5607,
-    "timeWeek": 6399,
-    "timeMonth": 4076,
-    "timeYear": 2442,
+    "status": "up",
+    "uptime": "98.44%",
+    "uptimeDay": "91.53%",
+    "uptimeWeek": "96.78%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "98.44%",
+    "time": 2485,
+    "timeDay": 9083,
+    "timeWeek": 7141,
+    "timeMonth": 4399,
+    "timeYear": 2485,
     "dailyMinutesDown": {
       "2025-11-14": 39,
       "2025-11-18": 229,
@@ -161,7 +161,7 @@
       "2026-06-26": 1086,
       "2026-08-02": 82,
       "2026-08-07": 121,
-      "2026-08-09": 60
+      "2026-08-09": 122
     }
   }
 ]
